@@ -1,0 +1,14 @@
+{
+  "name": "jest-babel-monorepo-mypackage",
+  "version": "1.0.0",
+  "description": "Subpackage created to emulate a monorepo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"nope\"; exit 1"
+  },
+  "author": "Javi Armendáriz <katanagari@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "underscore": "^1.9.1"
+  }
+}

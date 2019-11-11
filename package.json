@@ -1,0 +1,17 @@
+{
+  "name": "jest-babel-monorepo",
+  "version": "1.0.0",
+  "description": "Test to make jest fail with Babel in a monorepo setting",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Javi Armendáriz <katanagari@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "jest": "^24.9.0"
+  }
+}
